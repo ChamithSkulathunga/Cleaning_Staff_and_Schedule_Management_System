@@ -1,0 +1,318 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/colorful-composition-with-mop-sponges-rags-gloves-detergents-general-cleaning-cleaning-service-concept-background.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 670px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.25rem;
+  margin: 62px auto 0 -28px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 142px;
+  height: 142px;
+  margin: 28px auto 0 63px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 412px;
+  min-height: 305px;
+  height: auto;
+  margin: 46px auto 0 -72px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 13px auto 0 98px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -25px 270px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -21px auto 0 126px;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 33px auto 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: -25px auto 0 125px;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 40px auto 0 0;
+}
+
+.u-section-1 .u-text-9 {
+  margin: -25px 129px 0 auto;
+}
+
+.u-section-1 .u-text-10 {
+  margin: 20px 129px 0 auto;
+}
+
+.u-section-1 .u-text-11 {
+  margin: -25px auto 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 340px;
+  min-height: 203px;
+  height: auto;
+  margin: -305px auto 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-12 {
+  margin: 30px 114px 0 auto;
+}
+
+.u-section-1 .u-text-13 {
+  margin: -25px 201px 0 30px;
+}
+
+.u-section-1 .u-text-14 {
+  margin: 20px 77px 0 auto;
+}
+
+.u-section-1 .u-text-15 {
+  margin: -25px auto 0 30px;
+}
+
+.u-section-1 .u-text-16 {
+  margin: 20px auto 0 30px;
+}
+
+.u-section-1 .u-text-17 {
+  margin: -23px 77px 0 auto;
+}
+
+.u-section-1 .u-group-3 {
+  width: 433px;
+  min-height: 291px;
+  height: auto;
+  margin: -203px -93px 0 auto;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-text-18 {
+  margin: 0 289px 0 2px;
+}
+
+.u-section-1 .u-group-4 {
+  width: 70px;
+  min-height: 20px;
+  height: auto;
+  margin: -25px auto 0 144px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-19 {
+  margin: 0 0 -5px auto;
+}
+
+.u-section-1 .u-group-5 {
+  width: 70px;
+  min-height: 20px;
+  height: auto;
+  margin: -20px 49px 0 auto;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-20 {
+  margin: 0 0 -5px auto;
+}
+
+.u-section-1 .u-text-21 {
+  margin: 25px auto 0 0;
+}
+
+.u-section-1 .u-text-22 {
+  margin: -25px auto 0;
+}
+
+.u-section-1 .u-text-23 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-24 {
+  margin: -25px 24px 0 152px;
+}
+
+.u-section-1 .u-group-6 {
+  width: 340px;
+  min-height: 67px;
+  height: auto;
+  margin: -53px auto 0;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-25 {
+  margin: 21px auto 0 20px;
+}
+
+.u-section-1 .u-text-26 {
+  margin: -25px 13px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 705px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 62px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 57px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 62px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: 62px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: 62px;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 0;
+  }
+
+  .u-section-1 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-5 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-22 {
+    width: 62px;
+  }
+
+  .u-section-1 .u-group-6 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 423px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-group-3 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-group-6 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 317px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-18 {
+    margin-top: 14px;
+  }
+
+  .u-section-1 .u-group-4 {
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-text-21 {
+    margin-top: 36px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+
+  .test {
+    padding: 20px;
+  }
+
+
+  .u-body {
+    color: #fcfbfb;
+    background-color: #26786D;
+    --effect-scale: 1.1;
+}
+
+}
